@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1025405801298",
+    "project_id": "iium-canteen",
+    "storage_bucket": "iium-canteen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025405801298:android:32567299a8bac74612208b",
+        "android_client_info": {
+          "package_name": "main.dart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025405801298-9jn3t6nc42lpfdlmo7da2ik19rgcj5mo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWS4tuvfUKB1baV157e6-hTTSItZb8c2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025405801298-9jn3t6nc42lpfdlmo7da2ik19rgcj5mo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
